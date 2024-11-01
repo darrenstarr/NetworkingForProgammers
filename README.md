@@ -16,6 +16,16 @@ Most of the course will be theoretical, but all technologies will be presented a
 
 Topics often heavily focused on within classical network training will be greatly abbreviated by describing them in terms of math (simple math), algorithms, or programming.
 
+## Schedule
+
+As soon as I can get everyone I've promised over the past few months that I'd teach this course into one place (here and the [Facebook Page](https://www.facebook.com/groups/1235189824352111)), I'll send an invite to a Zoom where we can discuss and agree upon a schedule, platform, etc...
+
+I expect there to be 4 sessions of 3-5 hours each. If we have a lot of questions and feedback (or if everything goes horribly wrong during the demos), it might be up to two more sessions.
+
+For people interested in attending physically, we'll have to use my maker space at Caspar Storms Vei 12A as the university isn't allowed to host "external courses". (Gard checked for me). I have room for 6-10 people comfortably and we are well stocked for drinks and snacks.
+
+We of course will be remote as well via Zoom.
+
 ## Outline
 
 - What is a network?
