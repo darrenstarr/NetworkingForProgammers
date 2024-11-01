@@ -18,7 +18,7 @@ Topics often heavily focused on within classical network training will be greatl
 
 ## Schedule
 
-As soon as I can get everyone I've promised over the past few months that I'd teach this course into one place (here and the [Facebook Page](https://www.facebook.com/groups/1235189824352111)), I'll send an invite to a Zoom where we can discuss and agree upon a schedule, platform, etc...
+As soon as I can get everyone I've promised over the past few months that I'd teach this course into one place (here and the [Facebook Page](https://www.facebook.com/groups/1235189824352111) PLEASE join so I can have an easier time messaging you), I'll send an invite to a Zoom where we can discuss and agree upon a schedule, platform, etc...
 
 I expect there to be 4 sessions of 3-5 hours each. If we have a lot of questions and feedback (or if everything goes horribly wrong during the demos), it might be up to two more sessions.
 
